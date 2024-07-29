@@ -1,13 +1,20 @@
 # Nome do Projeto
 
-Este projeto é uma aplicação web simples para cadastro de empresas, desenvolvida utilizando HTML, CSS e JavaScript. Ele permite que os usuários insiram informações detalhadas sobre uma empresa, como nome fantasia, razão social, endereço e dados do sócio. A aplicação valida o CNPJ fornecido através de uma consulta à API BrasilAPI e exibe os dados obtidos.
+Descrição do Projeto
+Este projeto é uma aplicação web simples para consulta de CNPJ, desenvolvida utilizando HTML, CSS e JavaScript. Ele permite que os usuários insiram um CNPJ e obtenham informações detalhadas sobre a empresa, como nome fantasia, razão social, endereço e dados do sócio, através de uma consulta à API BrasilAPI.
 
 Funcionalidades principais incluem:
 
-Formulário Dinâmico: Preenchimento automático dos campos de dados ao consultar o CNPJ.
-Validação e Feedback: Alertas em caso de erro ou sucesso durante o envio do formulário.
+Formulário de Consulta: Permite ao usuário inserir um CNPJ para consulta.
+<ul>
+    <li>
+     Preenchimento Automático: Os campos do formulário são automaticamente preenchidos com os dados retornados pela API.   
+    </li>
+</ul>
+
+Validação e Feedback: Exibe alertas em caso de CNPJ inválido ou não encontrado.
 Loader Visual: Indicador de carregamento durante a consulta e envio dos dados.
-Redirecionamento: Encaminhamento dos dados para outra página após o envio.
+Redirecionamento: Encaminhamento dos dados para outra página após a consulta bem-sucedida.
 Este projeto serve como um exemplo prático de como manipular dados de formulário, realizar requisições assíncronas a APIs externas e melhorar a experiência do usuário com feedback visual e notificações.
 
 ## Pré-requisitos
