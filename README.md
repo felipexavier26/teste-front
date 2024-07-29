@@ -5,7 +5,11 @@ Este projeto é uma aplicação web simples para consulta de CNPJ, desenvolvida 
 
 Funcionalidades principais incluem:
 
+<ul>
+    <li>
 Formulário de Consulta: Permite ao usuário inserir um CNPJ para consulta.
+   </li>
+</ul>
 <ul>
     <li>
      Preenchimento Automático: Os campos do formulário são automaticamente preenchidos com os dados retornados pela API.   
