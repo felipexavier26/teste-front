@@ -11,10 +11,22 @@ Formulário de Consulta: Permite ao usuário inserir um CNPJ para consulta.
      Preenchimento Automático: Os campos do formulário são automaticamente preenchidos com os dados retornados pela API.   
     </li>
 </ul>
+<ul>
+    <li>
+        Validação e Feedback: Exibe alertas em caso de CNPJ inválido ou não encontrado.
+    </li>
+</ul>
+<ul>
+    <li>
+        Loader Visual: Indicador de carregamento durante a consulta e envio dos dados.
+    </li>
+</ul>
+<ul>
+    <li>
+        Redirecionamento: Encaminhamento dos dados para outra página após a consulta bem-sucedida.
+    </li>
+</ul>
 
-Validação e Feedback: Exibe alertas em caso de CNPJ inválido ou não encontrado.
-Loader Visual: Indicador de carregamento durante a consulta e envio dos dados.
-Redirecionamento: Encaminhamento dos dados para outra página após a consulta bem-sucedida.
 Este projeto serve como um exemplo prático de como manipular dados de formulário, realizar requisições assíncronas a APIs externas e melhorar a experiência do usuário com feedback visual e notificações.
 
 ## Pré-requisitos
