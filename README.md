@@ -30,6 +30,7 @@ Descrição breve do projeto.
 
 
 
-Funcionalidades
+
+# Funcionalidades
 Formulário de Cadastro: Vários campos e ações (submissão, alerta de sucesso, loader, redirecionamento).
 Loader: Exibido durante o envio do formulário.
